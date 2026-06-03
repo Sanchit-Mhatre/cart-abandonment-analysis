@@ -92,6 +92,6 @@
 ## 👤
 
 **Sanchit Mhatre**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanchit-mhatre-553b3b249/)  
 💻 [GitHub](https://github.com/Sanchit-Mhatre)
 
