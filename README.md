@@ -61,18 +61,15 @@
 
 ---
 
-## 📁 Project Structure
-
----
 
 ## 🛠️ How to Run
 
 ### SQL
-1. Import `data/sample_dataset.csv` into MySQL
-2. Run scripts in `sql/` folder in numbered order (`01` → `05`)
+1. Import `https://github.com/Sanchit-Mhatre/cart-abandonment-analysis/tree/main/Dataset` into MySQL
+2. Run scripts in `sql/` folder in numbered order (`01` → `04`)
 
 ### Power BI
-1. Open `dashboard/cart_abandonment.pbix` in Power BI Desktop
+1. Open `dashboard/Ecom_cart_abandonment.pbix` in Power BI Desktop
 2. Update the data source connection to your local MySQL instance
 3. Refresh the dataset
 
@@ -88,16 +85,13 @@
 | 4️⃣ | **Simplify Checkout** — 3 steps max, guest checkout, UPI one-click, 30-day saved carts | 51.6% → 40% abandonment |
 | 5️⃣ | **Replicate Huawei's page structure** — Better specs, reviews, return policy across Sony, Puma, Nike | Structural lift across brands |
 
-> All from fixing what the data already revealed. 📈
+
 
 ---
 
-## 👤 Author
+## 👤
 
 **Sanchit Mhatre**  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 💻 [GitHub](https://github.com/Sanchit-Mhatre)
 
----
-
-*If you found this project useful, give it a ⭐ — it helps others find it too!*
