@@ -7,8 +7,8 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](dashboard/screenshots/overview.png)
-![Brand Analysis](dashboard/screenshots/brand_analysis.png)
+![Dashboard Overview](https://github.com/Sanchit-Mhatre/cart-abandonment-analysis/blob/main/PBi%20DashBoard/src/Screenshot%202026-06-02%20215244.png)
+![Category Analysis](https://github.com/Sanchit-Mhatre/cart-abandonment-analysis/blob/main/PBi%20DashBoard/src/Screenshot%202026-06-02%20215244.png)
 
 ---
 
